@@ -1,9 +1,6 @@
 {
-  "name": "nodebb-theme-persona",
-  "version": "9.1.13",
-  "nbbpm": {
-    "compatibility": "^1.11.0"
-  },
+  "name": "nodebb-theme-persona-custom",
+  "version": "1.0.0",
   "description": "Persona theme for NodeBB",
   "main": "theme.less",
   "repository": {
