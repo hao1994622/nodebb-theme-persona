@@ -1,11 +1,11 @@
 {
   "name": "nodebb-theme-persona-custom",
-  "version": "1.0.1",
-  "description": "Persona theme for NodeBB",
+  "version": "1.0.2",
+  "description": "Altizure Custom",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/hao1994622/nodebb-theme-persona-custom"
   },
   "keywords": [
     "nodebb",
@@ -33,7 +33,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/hao1994622/nodebb-theme-persona-custom/issues"
   },
   "dependencies": {
     "pulling": "^2.0.0",
