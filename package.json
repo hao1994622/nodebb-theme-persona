@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-persona-custom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Persona theme for NodeBB",
   "main": "theme.less",
   "repository": {
